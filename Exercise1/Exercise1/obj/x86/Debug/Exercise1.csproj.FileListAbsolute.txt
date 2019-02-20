@@ -1,0 +1,6 @@
+/home/bb/Projects/Exercise1/Exercise1/obj/x86/Debug/Exercise1.csprojAssemblyReference.cache
+/home/bb/Projects/Exercise1/Exercise1/obj/x86/Debug/Exercise1.csproj.CoreCompileInputs.cache
+/home/bb/Projects/Exercise1/Exercise1/bin/Debug/Exercise1.exe
+/home/bb/Projects/Exercise1/Exercise1/bin/Debug/Exercise1.pdb
+/home/bb/Projects/Exercise1/Exercise1/obj/x86/Debug/Exercise1.exe
+/home/bb/Projects/Exercise1/Exercise1/obj/x86/Debug/Exercise1.pdb
