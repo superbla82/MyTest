@@ -1,0 +1,6 @@
+/home/bb/Projects/1class1interface/1class1interface/bin/Debug/1class1interface.exe
+/home/bb/Projects/1class1interface/1class1interface/bin/Debug/1class1interface.pdb
+/home/bb/Projects/1class1interface/1class1interface/obj/x86/Debug/1class1interface.csprojAssemblyReference.cache
+/home/bb/Projects/1class1interface/1class1interface/obj/x86/Debug/1class1interface.csproj.CoreCompileInputs.cache
+/home/bb/Projects/1class1interface/1class1interface/obj/x86/Debug/1class1interface.exe
+/home/bb/Projects/1class1interface/1class1interface/obj/x86/Debug/1class1interface.pdb
